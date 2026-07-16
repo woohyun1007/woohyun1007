@@ -104,15 +104,6 @@ React를 사용해 게시글 CRUD와 검색 기능을 구현하고 Git으로 협
 - Redis를 활용한 캐시와 토큰 관리
 - Docker 기반 배포 환경 구성
 - CI/CD 자동화
-- Python 기반 코인 자동매매 시스템 개발
-
----
-
-## 📚 Documentation
-
-프로젝트 상세 내용, 기술 선택 이유, 트러블슈팅과 회고를 Notion에 정리하고 있습니다.
-
-- [Portfolio & Project Documentation](https://app.notion.com/p/228b883853bf80a790abc82225992d56?source=copy_link)
 
 ---
 
@@ -123,18 +114,3 @@ React를 사용해 게시글 CRUD와 검색 기능을 구현하고 Git으로 협
 - Notion: [Portfolio](https://app.notion.com/p/228b883853bf80a790abc82225992d56?source=copy_link)
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=woohyun1007&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=woohyun1007&layout=compact&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
