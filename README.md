@@ -42,22 +42,6 @@ Docker와 GCP를 이용해 배포했으며, 실제 사용자 54명이 이용했�
 
 ---
 
-### 👥 두리끼리
-
-> 프로젝트와 스터디 구성원을 모집할 수 있는 웹 서비스
-
-3인 팀 프로젝트에서 프론트엔드 개발을 담당했습니다.  
-React를 사용해 게시글 CRUD와 검색 기능을 구현하고 Git으로 협업했습니다.
-
-**주요 기술**
-
-`React` `JavaScript` `Git`
-
-- [Repository](https://github.com/woohyun1007/Capstone-Design)
-- [Project Documentation]()
-
----
-
 ## 🛠 Tech Stack
 
 ### Backend
